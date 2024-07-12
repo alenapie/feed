@@ -4,7 +4,7 @@ import { Comments } from "./components/Comments";
 function App() {
   return (
     <>
-      <Feed />
+      {/* <Feed /> */}
       <Comments />
     </>
   );
